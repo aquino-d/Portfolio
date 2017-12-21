@@ -7,11 +7,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   </head>
   <body>
-    <h1>Hello, world!</h1>
 
+	<nav class="navbar navbar-inverse">
+		<div class="container-fluid">
+			<div class="navbar-header">
+			<a class="navbar-brand" href="#">Daniel Aquino's Portfolio</a>
+			</div>
+			<ul class="nav navbar-nav">
+				<li><a href="#">About</a></li>
+				<li><a href="#">Projects</a></li>
+				<li><a href="#">Contact me</a></li>
+			</ul>
+		</div>
+	</nav>
+	
+	<div class="container-fluid">
+		<div class="jumbotron">
+			<h1>Bootstrap Tutorial</h1> 
+			<p>Bootstrap is the most popular HTML, CSS, and JS framework for developing
+			responsive, mobile-first projects on the web.</p> 
+		</div>
+		<p>This is some text.</p> 
+		<p>This is another text.</p> 
+		Try it Yourself »
+
+		<h1>Hello, world!</h1>
+	</div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
