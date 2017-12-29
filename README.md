@@ -8,6 +8,9 @@
 
     <!-- Bootstrap CSS -->
 	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	  
+	<!--CSS-->  
+		<link rel="stylesheet" href="Portfolio.css">
   </head>
   <body>
 
@@ -24,17 +27,65 @@
 		</div>
 	</nav>
 	
-	<div class="container-fluid">
-		<div class="jumbotron">
+	
+	<div class="jumbotron">
+		<div class="img"></div>
 			<h1>Bootstrap Tutorial</h1> 
 			<p>Bootstrap is the most popular HTML, CSS, and JS framework for developing
 			responsive, mobile-first projects on the web.</p> 
-		</div>
-		<p>This is some text.</p> 
-		<p>This is another text.</p> 
-		Try it Yourself »
+			<p>This is some text.</p> 
+			<p>This is another text.</p> 
+			Try it Yourself »
 
-		<h1>Hello, world!</h1>
+			<h1>Hello, world!</h1>
+	</div>
+	
+	<div class="album">
+		<div class="container">
+		
+			<div class="row">
+				<div class="card">
+					<img src="MB.jpg" alt="Card image cap">
+					<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer</p>
+				</div>
+				<div class="card">
+					<img src="MB.jpg" alt="Card image cap">
+					<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer</p>
+				</div>
+				<div class="card">
+					<img src="MB.jpg" alt="Card image cap">
+					<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer</p>
+				</div>
+
+				<div class="card">
+					<img src="MB.jpg" alt="Card image cap">
+					<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer</p>
+				</div>
+				<div class="card">
+					<img src="MB.jpg" alt="Card image cap">
+					<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer</p>
+				</div>
+				<div class="card">
+					<img src="MB.jpg" alt="Card image cap">
+					<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer</p>
+				</div>
+
+				<div class="card">
+					<img src="MB.jpg" alt="Card image cap">
+					<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer</p>
+				</div>
+				<div class="card">
+					<img src="MB.jpg" alt="Card image cap">
+					<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer</p>
+				</div>
+				<div class="card">
+					<img src="MB.jpg" alt="Card image cap">
+					<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer</p>
+				</div>				
+			</div>
+			
+			
+		</div>	
 	</div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
