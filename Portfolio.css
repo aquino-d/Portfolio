@@ -6,7 +6,7 @@ body {
 
 /* Header */
 .header {
-    background: url(IMG_0304.JPG);
+    background: url(http://photouploads.com/images/020df6.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
@@ -114,10 +114,10 @@ i:hover {
     display: block;
     height: 400px;
     padding: 10px;
-    background: url(IMG_0309.JPG);
+    background: url(https://s20.postimg.cc/g4fh8pvrh/photo_service_2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: bottom;
+    background-position: center;
     color: white;
 }
 
@@ -160,9 +160,9 @@ i:hover {
 /* Contact Form */
 #contact{
     width: 100%;
-    background: url(IMG_4363.JPG);
+    background: url(https://s20.postimg.cc/qehw7sll9/contact_3.jpg );
     height: 800px;
-    
+    background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -262,26 +262,3 @@ input[type=submit] {
     height: 180px;
     padding-top:100px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
